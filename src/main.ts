@@ -113,7 +113,7 @@ app.innerHTML = `
 
       <section class="location section-dark" id="location">
         <div class="location__photo" style="background-image:url('${CONFIG.detailImage}')"></div><div class="location__shade"></div>
-        <div class="location__content reveal"><p class="eyebrow">نلتقي هناك</p><h2>قاعة رويال بلازا</h2><p>${CONFIG.venueAddress}</p><a class="button button--burgundy" id="map-link" href="#" target="_blank" rel="noopener">${icon('map')} عرض الموقع على الخريطة</a></div>
+        <div class="location__content reveal"><p class="eyebrow">نلتقي هناك</p><h2>قاعة جاردينا</h2><p>${CONFIG.venueAddress}</p><a class="button button--burgundy" id="map-link" href="#" target="_blank" rel="noopener">${icon('map')} عرض الموقع على الخريطة</a></div>
       </section>
 
       <section class="rsvp section-light" id="rsvp">

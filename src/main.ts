@@ -10,7 +10,7 @@ const CONFIG = {
   venue: 'قاعة جاردينا ',
   venueAddress: 'طريق كورنيش المعادي',
   mapsUrl: 'https://maps.app.goo.gl/X98qcpgBKJcZuJvv6',
-  whatsappNumber: '01103029663',
+  whatsappNumber: '+201103029663',
   music: 'assets/audio/wedding-music.mp3',
   heroImage: 'https://images.pexels.com/photos/34767570/pexels-photo-34767570.jpeg?auto=compress&cs=tinysrgb&w=1800',
   detailImage: '../public/Warm Wedding Memory Triptych.png',
